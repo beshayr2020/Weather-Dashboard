@@ -6,7 +6,6 @@ Use the [OpenWeather API](https://openweathermap.org/api) to retrieve weather da
 
 ## User Story
 
-```
 AS A traveler
 I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
@@ -19,9 +18,5 @@ SO THAT I can plan a trip accordingly
 
 
 <i> 
-<a href="">Weather Dashboard Application</a>
+<a href="https://beshayr2020.github.io/Weather-Dashboard">Weather Dashboard Application</a>
 </i>
-
-The following image demonstrates the application functionality:
-
-![weather dashboard demo](./Assets/06-server-side-apis-homework-demo.png)
